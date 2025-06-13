@@ -54,9 +54,9 @@ case $choice in
         ;;
     5)
         # Windows 11
-        img_file="windows11.img"
-        iso_link="http://134.122.76.13/WIN11.ISO"
-        iso_file="windows11.iso"
+        img_file="WIN11.PRO.21H2.SUPERLITE2BCOMPACT.X64.(WPE)20(1).img"
+        iso_link="https://dn790003.ca.archive.org/0/items/ghost-spectre-windows-11/WIN11.PRO.21H2.SUPERLITE%2BCOMPACT.X64.(WPE)%20(1).ISO"
+        iso_file="WIN11.PRO.21H2.SUPERLITE2BCOMPACT.X64.(WPE)20(1).iso"
         ;;
     6)
         # Windows 1021h2
